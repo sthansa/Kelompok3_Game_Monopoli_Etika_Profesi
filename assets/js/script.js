@@ -1424,22 +1424,15 @@ function executeCommunityCard(cardIndex) {
 // ===== GAME FLOW & TURN SYSTEM =====
 /**
  * Advance to next player's turn
- * Checks win conditions (score threshold, last player standing)
+ * Checks win conditions (last player standing only - no score limit)
  * Updates UI and enables dice roll button
  */
 function nextPlayer() {
     currentPlayerIndex = (currentPlayerIndex + 1) % players.length;
 
     if (gameStarted) {
-        const winnerByScore = players.find((p) => p.points >= CONFIG.WIN_SCORE);
-        if (winnerByScore) {
-            gameRunning = false;
-            updateGameInfo(`🏆 ${winnerByScore.name} MENANG dengan ${winnerByScore.points} poin!`);
-            logMessage(`🏆 GAME SELESAI! ${winnerByScore.name} adalah pemenangnya!`);
-            const rollBtn = document.getElementById("rollButton");
-            if (rollBtn) rollBtn.disabled = true;
-            return;
-        }
+        // Removed win condition based on score - game continues indefinitely
+        // Game only ends when only one player remains
         
         if (players.length === 1) {
             gameRunning = false;
