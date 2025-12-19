@@ -5,7 +5,7 @@
  */
 const CONFIG = {
     // Player settings
-    STARTING_POINTS: 100,
+    STARTING_POINTS: 1000,
     MAX_PLAYERS: 8,
     MIN_PLAYERS: 2,
     
@@ -1033,8 +1033,7 @@ function showBuyCityOption(cityName, position) {
     if (qText) {
         qText.innerHTML = `
             <div style="margin-bottom: 10px; font-size: 16px; color: #4caf50;">
-                🏙️ Kota: ${cityName}<br>
-                💰 Harga: ${price} poin
+                🏙️ Kota: ${cityName}
             </div>
             <div style="font-weight: bold; margin-bottom: 10px;">
                 Jawab pertanyaan dengan benar untuk membeli kota:
