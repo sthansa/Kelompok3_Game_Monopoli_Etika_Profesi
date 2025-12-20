@@ -1,0 +1,866 @@
+[
+    {
+        "q": "Etika profesi dapat diartikan sebagai…",
+        "c": [
+            "Aturan hukum yang mengikat semua warga negara",
+            "Nilai dan norma moral yang mengatur perilaku profesional",
+            "Kebiasaan pribadi dalam bekerja",
+            "Pedoman kerja berdasarkan pengalaman",
+            "Aturan tidak tertulis dalam organisasi"
+        ],
+        "a": 3,
+        "id": 1
+    },
+    {
+        "q": "Tujuan utama penerapan etika profesi adalah…",
+        "c": [
+            "Meningkatkan keuntungan perusahaan",
+            "Menjaga citra pribadi",
+            "Mengatur hubungan antarindividu secara bebas",
+            "Menjaga kepercayaan publik terhadap profesi",
+            "Membatasi kreativitas pekerja"
+        ],
+        "a": 2,
+        "id": 2
+    },
+    {
+        "q": "Dokumen yang berisi aturan dan prinsip moral yang harus dipatuhi oleh seorang profesional disebut…",
+        "c": [
+            "Standar Operasional Prosedur",
+            "Peraturan Perusahaan",
+            "Kode Etik Profesi",
+            "Undang-Undang Ketenagakerjaan",
+            "Pedoman Kerja"
+        ],
+        "a": 3,
+        "id": 3
+    },
+    {
+        "q": "Berikut ini yang termasuk prinsip etika profesi adalah, kecuali…",
+        "c": [
+            "Tanggung jawab",
+            "Kejujuran",
+            "Kerahasiaan",
+            "Kepentingan pribadi",
+            "Profesionalisme"
+        ],
+        "a": 1,
+        "id": 4
+    },
+    {
+        "q": "Seorang profesional yang menyalahgunakan jabatan untuk keuntungan pribadi melanggar prinsip…",
+        "c": [
+            "Objektivitas",
+            "Integritas",
+            "Kompetensi",
+            "Kerja sama",
+            "Efisiensi"
+        ],
+        "a": 2,
+        "id": 5
+    },
+    {
+        "q": "Menjaga informasi klien agar tidak disebarluaskan tanpa izin merupakan penerapan prinsip…",
+        "c": [
+            "Akuntabilitas",
+            "Transparansi",
+            "Kerahasiaan",
+            "Keadilan",
+            "Loyalitas"
+        ],
+        "a": 2,
+        "id": 6
+    },
+    {
+        "q": "Contoh perilaku profesional di tempat kerja adalah…",
+        "c": [
+            "Datang terlambat karena urusan pribadi",
+            "Mengabaikan tanggung jawab pekerjaan",
+            "Bekerja sesuai standar dan aturan yang berlaku",
+            "Mengutamakan kepentingan pribadi",
+            "Menghindari kerja sama tim"
+        ],
+        "a": 1,
+        "id": 7
+    },
+    {
+        "q": "Pelanggaran etika profesi dapat berdampak pada…",
+        "c": [
+            "Meningkatnya produktivitas",
+            "Hilangnya kepercayaan masyarakat",
+            "Bertambahnya relasi kerja",
+            "Meningkatnya kreativitas",
+            "Bertambahnya keuntungan"
+        ],
+        "a": 2,
+        "id": 8
+    },
+    {
+        "q": "Etika profesi sangat penting dalam dunia kerja karena…",
+        "c": [
+            "Menghambat kebebasan individu",
+            "Membuat pekerjaan menjadi lebih sulit",
+            "Menjamin perilaku profesional dan bertanggung jawab",
+            "Mengurangi persaingan kerja",
+            "Menghilangkan konflik"
+        ],
+        "a": 1,
+        "id": 9
+    },
+    {
+        "q": "Sikap adil, tidak memihak, dan tidak dipengaruhi kepentingan pribadi disebut…",
+        "c": [
+            "Loyalitas",
+            "Objektivitas",
+            "Kompetensi",
+            "Disiplin",
+            "Konsistensi"
+        ],
+        "a": 2,
+        "id": 10
+    },
+    {
+        "q": "Filsafat etika merupakan cabang filsafat yang mempelajari tentang…",
+        "c": [
+            "Keindahan dan seni",
+            "Kebenaran pengetahuan",
+            "Perilaku manusia terkait baik dan buruk",
+            "Hubungan manusia dengan alam",
+            "Struktur sosial masyarakat"
+        ],
+        "a": 1,
+        "id": 11
+    },
+    {
+        "q": "Istilah “etika” berasal dari bahasa Yunani ethos yang berarti…",
+        "c": [
+            "Hukum",
+            "Kebiasaan atau karakter",
+            "Keadilan",
+            "Moral",
+            "Norma sosial"
+        ],
+        "a": 2,
+        "id": 12
+    },
+    {
+        "q": "Aliran filsafat etika yang menilai baik buruknya suatu tindakan berdasarkan akibat atau hasilnya disebut…",
+        "c": [
+            "Deontologi",
+            "Etika kebajikan",
+            "Utilitarianisme",
+            "Intuisionisme",
+            "Relativisme"
+        ],
+        "a": 2,
+        "id": 13
+    },
+    {
+        "q": "Tokoh filsafat yang terkenal dengan prinsip “kewajiban moral” dalam etika adalah…",
+        "c": [
+            "Aristoteles",
+            "John Stuart Mill",
+            "Immanuel Kant",
+            "Jeremy Bentham",
+            "Plato"
+        ],
+        "a": 1,
+        "id": 14
+    },
+    {
+        "q": "Etika deontologi menekankan bahwa suatu tindakan dinilai baik apabila…",
+        "c": [
+            "Memberikan manfaat terbesar",
+            "Dilakukan sesuai dengan kewajiban dan aturan",
+            "Mendatangkan kebahagiaan pribadi",
+            "Sesuai dengan adat istiadat",
+            "Disetujui oleh mayoritas"
+        ],
+        "a": 2,
+        "id": 15
+    },
+    {
+        "q": "Etika kebajikan (virtue ethics) berfokus pada…",
+        "c": [
+            "Akibat dari suatu tindakan",
+            "Aturan dan kewajiban",
+            "Pembentukan karakter dan keutamaan moral",
+            "Norma hukum tertulis",
+            "Kepentingan mayoritas"
+        ],
+        "a": 2,
+        "id": 16
+    },
+    {
+        "q": "Relativisme etika berpandangan bahwa…",
+        "c": [
+            "Nilai moral bersifat universal",
+            "Kebenaran moral ditentukan oleh hukum negara",
+            "Nilai moral tergantung pada budaya dan situasi",
+            "Semua tindakan adalah benar",
+            "Moralitas tidak dapat dipelajari"
+        ],
+        "a": 2,
+        "id": 17
+    },
+    {
+        "q": "Pernyataan berikut yang sesuai dengan pandangan utilitarianisme adalah…",
+        "c": [
+            "Tindakan benar jika sesuai aturan",
+            "Tindakan benar jika dilakukan dengan niat baik",
+            "Tindakan benar jika menghasilkan manfaat terbesar bagi banyak orang",
+            "Tindakan benar jika sesuai adat",
+            "Tindakan benar jika diperintahkan atasan"
+        ],
+        "a": 2,
+        "id": 18
+    },
+    {
+        "q": "Perbedaan utama antara etika dan moral adalah…",
+        "c": [
+            "Etika bersifat pribadi, moral bersifat ilmiah",
+            "Moral merupakan kajian filsafat, etika aturan sosial",
+            "Etika merupakan kajian ilmiah tentang moral, moral adalah praktik nilai",
+            "Etika hanya berlaku di dunia kerja",
+            "Moral hanya berlaku di masyarakat modern"
+        ],
+        "a": 2,
+        "id": 19
+    },
+    {
+        "q": "Filsafat etika penting dalam kehidupan profesional karena…",
+        "c": [
+            "Membatasi kebebasan berpikir",
+            "Menentukan hukuman hukum",
+            "Membantu pengambilan keputusan moral secara rasional",
+            "Menghilangkan konflik kerja",
+            "Menggantikan aturan hukum"
+        ],
+        "a": 2,
+        "id": 20
+    },
+    {
+        "q": "Profesi dapat didefinisikan sebagai…",
+        "c": [
+            "Semua jenis pekerjaan yang menghasilkan uang",
+            "Pekerjaan yang dilakukan secara sukarela",
+            "Pekerjaan yang memerlukan keahlian khusus dan pendidikan tertentu",
+            "Kegiatan yang dilakukan tanpa tanggung jawab",
+            "Pekerjaan sementara tanpa aturan"
+        ],
+        "a": 2,
+        "id": 21
+    },
+    {
+        "q": "Ciri utama suatu pekerjaan dapat dikatakan sebagai profesi adalah…",
+        "c": [
+            "Memiliki jam kerja fleksibel",
+            "Menghasilkan pendapatan tinggi",
+            "Memerlukan keterampilan khusus dan kode etik",
+            "Dapat dilakukan siapa saja",
+            "Tidak memerlukan pelatihan"
+        ],
+        "a": 2,
+        "id": 22
+    },
+    {
+        "q": "Profesionalisme dalam bekerja ditunjukkan oleh sikap…",
+        "c": [
+            "Mementingkan kepentingan pribadi",
+            "Bekerja berdasarkan perasaan",
+            "Melaksanakan tugas sesuai standar dan tanggung jawab",
+            "Menghindari aturan organisasi",
+            "Bekerja tanpa perencanaan"
+        ],
+        "a": 3,
+        "id": 23
+    },
+    {
+        "q": "Seorang profesional yang baik harus mampu…",
+        "c": [
+            "Mengabaikan etika demi hasil",
+            "Bekerja tanpa pedoman",
+            "Mengutamakan kepentingan pribadi",
+            "Menjaga kompetensi dan integritas",
+            "Menghindari evaluasi"
+        ],
+        "a": 3,
+        "id": 24
+    },
+    {
+        "q": "Hubungan antara profesi dan profesionalisme adalah…",
+        "c": [
+            "Tidak saling berkaitan",
+            "Profesionalisme hanya berlaku pada jabatan tinggi",
+            "Profesi dapat berjalan tanpa profesionalisme",
+            "Profesionalisme merupakan sikap dan perilaku dalam menjalankan profesi",
+            "Profesionalisme hanya diperlukan di awal karier"
+        ],
+        "a": 1,
+        "id": 25
+    },
+    {
+        "q": "Profesi di bidang Teknologi Informasi (TI) adalah pekerjaan yang berkaitan dengan…",
+        "c": [
+            "Pengelolaan sumber daya alam",
+            "Pengolahan data, sistem informasi, dan teknologi komputer",
+            "Kegiatan administrasi manual",
+            "Produksi barang fisik",
+            "Pelayanan jasa nonteknis"
+        ],
+        "a": 2,
+        "id": 26
+    },
+    {
+        "q": "Berikut ini yang termasuk contoh profesi di bidang TI adalah…",
+        "c": [
+            "Akuntan",
+            "Arsiparis",
+            "Programmer",
+            "Notaris",
+            "Apoteker"
+        ],
+        "a": 2,
+        "id": 27
+    },
+    {
+        "q": "Seorang profesional TI harus memperhatikan etika dalam penggunaan teknologi, terutama terkait…",
+        "c": [
+            "Kecepatan perangkat",
+            "Harga perangkat lunak",
+            "Kerahasiaan dan keamanan data",
+            "Warna tampilan aplikasi",
+            "Spesifikasi perangkat keras"
+        ],
+        "a": 2,
+        "id": 28
+    },
+    {
+        "q": "Tanggung jawab utama seorang profesional TI dalam mengembangkan sistem adalah…",
+        "c": [
+            "Mengutamakan kepentingan pribadi",
+            "Mengabaikan kebutuhan pengguna",
+            "Menjaga kualitas, keamanan, dan keandalan sistem",
+            "Menyelesaikan pekerjaan secepat mungkin tanpa pengujian",
+            "Menghindari dokumentasi"
+        ],
+        "a": 3,
+        "id": 29
+    },
+    {
+        "q": "Profesionalisme dalam profesi TI ditunjukkan dengan sikap…",
+        "c": [
+            "Menggunakan perangkat lunak bajakan",
+            "Tidak memperbarui kemampuan teknis",
+            "Mengabaikan standar dan etika",
+            "Terus meningkatkan kompetensi dan mengikuti perkembangan teknologi",
+            "Menolak kerja sama tim"
+        ],
+        "a": 2,
+        "id": 30
+    },
+    {
+        "q": "Tujuan utama adanya kode etik profesi adalah…",
+        "c": [
+            "Membatasi kebebasan profesional",
+            "Menentukan besarnya gaji",
+            "Menjaga martabat dan kehormatan profesi",
+            "Menggantikan peraturan hukum",
+            "Mengatur jam kerja"
+        ],
+        "a": 2,
+        "id": 31
+    },
+    {
+        "q": "Kode etik profesi biasanya disusun dan ditetapkan oleh…",
+        "c": [
+            "Pemerintah pusat",
+            "Pimpinan perusahaan",
+            "Organisasi atau asosiasi profesi",
+            "Individu profesional",
+            "Klien atau pengguna jasa"
+        ],
+        "a": 1,
+        "id": 32
+    },
+    {
+        "q": "Salah satu fungsi kode etik profesi bagi masyarakat adalah…",
+        "c": [
+            "Memberi sanksi pidana",
+            "Menjamin kualitas dan kepercayaan terhadap layanan profesi",
+            "Menentukan tarif jasa",
+            "Mengurangi persaingan",
+            "Menghambat inovasi"
+        ],
+        "a": 2,
+        "id": 33
+    },
+    {
+        "q": "Pelanggaran terhadap kode etik profesi dapat mengakibatkan…",
+        "c": [
+            "Pujian dari masyarakat",
+            "Kenaikan jabatan",
+            "Sanksi moral atau organisasi",
+            "Penghargaan profesi",
+            "Kebebasan bertindak"
+        ],
+        "a": 1,
+        "id": 34
+    },
+    {
+        "q": "Seorang profesional yang mematuhi kode etik akan menunjukkan sikap…",
+        "c": [
+            "Ceroboh dan bebas",
+            "Bertanggung jawab dan berintegritas",
+            "Mengutamakan keuntungan pribadi",
+            "Mengabaikan aturan",
+            "Tidak peduli pada dampak sosial"
+        ],
+        "a": 2,
+        "id": 35
+    },
+    {
+        "q": "Kode etik profesi bersifat mengikat bagi…",
+        "c": [
+            "Seluruh masyarakat",
+            "Klien dan pengguna jasa",
+            "Anggota profesi yang bersangkutan",
+            "Pemerintah daerah",
+            "Pelajar dan mahasiswa"
+        ],
+        "a": 3,
+        "id": 36
+    },
+    {
+        "q": "Perbedaan utama antara hukum dan kode etik profesi adalah…",
+        "c": [
+            "Hukum bersifat moral, kode etik bersifat pidana",
+            "Kode etik tidak memiliki sanksi",
+            "Hukum dibuat oleh organisasi profesi",
+            "Kode etik bersifat moral-profesional, hukum bersifat mengikat secara negara",
+            "Tidak ada perbedaan"
+        ],
+        "a": 2,
+        "id": 37
+    },
+    {
+        "q": "Contoh penerapan kode etik profesi adalah…",
+        "c": [
+            "Menggunakan jabatan untuk kepentingan pribadi",
+            "Membocorkan rahasia klien",
+            "Bekerja sesuai standar dan menjaga kerahasiaan",
+            "Mengabaikan prosedur kerja",
+            "Menolak tanggung jawab"
+        ],
+        "a": 2,
+        "id": 38
+    },
+    {
+        "q": "Jika seorang profesional menghadapi konflik kepentingan, sikap yang sesuai kode etik adalah…",
+        "c": [
+            "Mengutamakan kepentingan pribadi",
+            "Mengabaikan masalah tersebut",
+            "Bertindak jujur dan transparan",
+            "Menyembunyikan informasi",
+            "Menghindari tanggung jawab"
+        ],
+        "a": 1,
+        "id": 39
+    },
+    {
+        "q": "Penerapan kode etik profesi secara konsisten akan berdampak pada…",
+        "c": [
+            "Menurunnya kepercayaan publik",
+            "Meningkatnya citra dan kepercayaan terhadap profesi",
+            "Berkurangnya tanggung jawab profesional",
+            "Melemahnya organisasi profesi",
+            "Hilangnya standar kerja"
+        ],
+        "a": 2,
+        "id": 40
+    },
+    {
+        "q": "Cybercrime adalah…",
+        "c": [
+            "Kejahatan yang dilakukan secara langsung di dunia nyata",
+            "Kejahatan yang berkaitan dengan perangkat keras saja",
+            "Kejahatan yang memanfaatkan teknologi komputer dan jaringan internet",
+            "Pelanggaran etika tanpa unsur teknologi",
+            "Kejahatan administratif"
+        ],
+        "a": 2,
+        "id": 41
+    },
+    {
+        "q": "Salah satu contoh cybercrime adalah…",
+        "c": [
+            "Pencurian kendaraan",
+            "Perampokan toko",
+            "Phishing",
+            "Penipuan konvensional",
+            "Penggelapan pajak"
+        ],
+        "a": 1,
+        "id": 42
+    },
+    {
+        "q": "Phishing merupakan bentuk kejahatan siber yang bertujuan untuk…",
+        "c": [
+            "Merusak perangkat keras",
+            "Mencuri data pribadi dengan menyamar sebagai pihak tepercaya",
+            "Mengganggu jaringan internet",
+            "Menghapus data secara permanen",
+            "Menguji keamanan sistem"
+        ],
+        "a": 1,
+        "id": 43
+    },
+    {
+        "q": "Aktivitas mengakses sistem komputer orang lain tanpa izin disebut…",
+        "c": [
+            "Spamming",
+            "Hacking",
+            "Cracking",
+            "Browsing",
+            "Debugging"
+        ],
+        "a": 2,
+        "id": 44
+    },
+    {
+        "q": "Penyebaran pesan elektronik secara massal tanpa izin dan bersifat mengganggu dikenal sebagai…",
+        "c": [
+            "Spoofing",
+            "Malware",
+            "Spamming",
+            "Sniffing",
+            "Defacing"
+        ],
+        "a": 2,
+        "id": 45
+    },
+    {
+        "q": "Malware adalah…",
+        "c": [
+            "Perangkat lunak pelindung data",
+            "Sistem operasi komputer",
+            "Program berbahaya yang merusak atau mencuri data",
+            "Aplikasi resmi pemerintah",
+            "Perangkat jaringan"
+        ],
+        "a": 2,
+        "id": 46
+    },
+    {
+        "q": "Dampak dari cybercrime bagi individu maupun organisasi adalah…",
+        "c": [
+            "Meningkatkan efisiensi kerja",
+            "Memperluas jaringan sosial",
+            "Kerugian finansial dan kebocoran data",
+            "Menambah kepercayaan publik",
+            "Meningkatkan keamanan sistem"
+        ],
+        "a": 2,
+        "id": 47
+    },
+    {
+        "q": "Upaya pencegahan cybercrime yang paling tepat adalah…",
+        "c": [
+            "Menggunakan kata sandi yang sama",
+            "Mengabaikan pembaruan sistem",
+            "Menginstal antivirus dan menjaga keamanan data",
+            "Membagikan data pribadi secara bebas",
+            "Mengakses semua tautan yang diterima"
+        ],
+        "a": 2,
+        "id": 48
+    },
+    {
+        "q": "Dalam konteks etika profesi TI, seorang profesional yang terlibat cybercrime melanggar prinsip…",
+        "c": [
+            "Kreativitas",
+            "Efisiensi",
+            "Integritas dan tanggung jawab",
+            "Kecepatan kerja",
+            "Inovasi"
+        ],
+        "a": 2,
+        "id": 49
+    },
+    {
+        "q": "Kesadaran terhadap cybercrime penting bagi masyarakat karena…",
+        "c": [
+            "Menghambat perkembangan teknologi",
+            "Membatasi penggunaan internet",
+            "Melindungi data dan keamanan informasi",
+            "Mengurangi akses digital",
+            "Menghilangkan kebebasan berekspresi"
+        ],
+        "a": 2,
+        "id": 50
+    },
+    {
+        "q": "Salah satu karakteristik utama cybercrime adalah…",
+        "c": [
+            "Dilakukan secara terbuka",
+            "Terbatas pada satu wilayah negara",
+            "Memanfaatkan teknologi komputer dan jaringan",
+            "Selalu dilakukan secara fisik",
+            "Mudah dideteksi"
+        ],
+        "a": 1,
+        "id": 51
+    },
+    {
+        "q": "Cybercrime sering disebut sebagai kejahatan lintas negara karena…",
+        "c": [
+            "Pelaku selalu bekerja dalam kelompok",
+            "Korban dan pelaku dapat berada di negara yang berbeda",
+            "Hanya terjadi di negara maju",
+            "Selalu melibatkan uang tunai",
+            "Dilakukan di tempat umum"
+        ],
+        "a": 2,
+        "id": 52
+    },
+    {
+        "q": "Karakteristik cybercrime yang berkaitan dengan sulitnya mengungkap pelaku adalah…",
+        "c": [
+            "Transparansi",
+            "Kejelasan identitas",
+            "Anonimitas pelaku",
+            "Keterbukaan informasi",
+            "Legalitas tinggi"
+        ],
+        "a": 1,
+        "id": 53
+    },
+    {
+        "q": "Kejahatan siber umumnya dilakukan dengan cara…",
+        "c": [
+            "Menggunakan kekerasan fisik",
+            "Memanfaatkan celah keamanan sistem",
+            "Bertatap muka langsung",
+            "Melibatkan dokumen kertas",
+            "Menggunakan alat manual"
+        ],
+        "a": 2,
+        "id": 54
+    },
+    {
+        "q": "Salah satu alasan cybercrime terus meningkat adalah…",
+        "c": [
+            "Menurunnya penggunaan internet",
+            "Sistem komputer semakin sederhana",
+            "Kurangnya kesadaran dan keamanan pengguna",
+            "Tidak adanya data digital",
+            "Terlalu ketatnya pengawasan"
+        ],
+        "a": 2,
+        "id": 55
+    },
+    {
+        "q": "Cyberlaw adalah…",
+        "c": [
+            "Hukum yang mengatur kejahatan konvensional",
+            "Hukum yang mengatur hubungan internasional",
+            "Hukum yang mengatur aktivitas dan permasalahan di dunia siber",
+            "Hukum adat dalam masyarakat digital",
+            "Aturan internal perusahaan TI"
+        ],
+        "a": 2,
+        "id": 54
+    },
+    {
+        "q": "Undang-Undang yang mengatur informasi dan transaksi elektronik di Indonesia adalah…",
+        "c": [
+            "UU No. 19 Tahun 2016",
+            "UU No. 11 Tahun 2008",
+            "UU No. 11 Tahun 2008 jo. UU No. 19 Tahun 2016",
+            "UU No. 36 Tahun 1999",
+            "UU No. 27 Tahun 2022"
+        ],
+        "a": 2,
+        "id": 55
+    },
+    {
+        "q": "Tujuan utama diberlakukannya UU ITE adalah…",
+        "c": [
+            "Membatasi penggunaan internet",
+            "Menghambat perkembangan teknologi",
+            "Memberikan kepastian hukum dalam pemanfaatan teknologi informasi",
+            "Menghapus kejahatan konvensional",
+            "Mengatur perangkat keras komputer"
+        ],
+        "a": 2,
+        "id": 56
+    },
+    {
+        "q": "Informasi Elektronik menurut UU ITE adalah…",
+        "c": [
+            "Informasi yang hanya berbentuk tulisan",
+            "Data yang tersimpan di kertas",
+            "Satu atau sekumpulan data elektronik termasuk tulisan, suara, gambar",
+            "Informasi rahasia negara saja",
+            "Informasi lisan"
+        ],
+        "a": 2,
+        "id": 57
+    },
+    {
+        "q": "Tindakan mengakses sistem elektronik milik orang lain tanpa izin diatur dalam UU ITE sebagai…",
+        "c": [
+            "Hak pengguna",
+            "Pelanggaran administratif",
+            "Perbuatan melawan hukum",
+            "Aktivitas legal",
+            "Kesalahan teknis"
+        ],
+        "a": 0,
+        "id": 58
+    },
+    {
+        "q": "Penyebaran konten bermuatan penghinaan atau pencemaran nama baik melalui media elektronik diatur dalam…",
+        "c": [
+            "Pasal 27 UU ITE",
+            "Pasal 28 UU ITE",
+            "Pasal 30 UU ITE",
+            "Pasal 31 UU ITE",
+            "Pasal 35 UU ITE"
+        ],
+        "a": 2,
+        "id": 59
+    },
+    {
+        "q": "Pasal 28 UU ITE mengatur tentang…",
+        "c": [
+            "Akses ilegal",
+            "Penyadapan",
+            "Penyebaran berita bohong dan ujaran kebencian",
+            "Pemalsuan data",
+            "Perusakan sistem"
+        ],
+        "a": 2,
+        "id": 60
+    },
+    {
+        "q": "Yang dimaksud dengan Transaksi Elektronik adalah…",
+        "c": [
+            "Jual beli secara langsung",
+            "Perjanjian yang dilakukan secara lisan",
+            "Perbuatan hukum menggunakan komputer atau media elektronik",
+            "Transaksi tunai",
+            "Pertukaran dokumen kertas"
+        ],
+        "a": 1,
+        "id": 61
+    },
+    {
+        "q": "Dalam UU ITE, tanda tangan elektronik berfungsi untuk…",
+        "c": [
+            "Mengganti tanda tangan basah tanpa syarat",
+            "Menjamin keaslian dan keabsahan dokumen elektronik",
+            "Mempercantik dokumen",
+            "Mengamankan perangkat keras",
+            "Menghapus data"
+        ],
+        "a": 2,
+        "id": 62
+    },
+    {
+        "q": "Setiap orang yang dengan sengaja dan tanpa hak menyebarkan malware dapat dikenai sanksi berdasarkan…",
+        "c": [
+            "UU Ketenagakerjaan",
+            "KUHPerdata",
+            "UU ITE",
+            "UU Perlindungan Konsumen",
+            "UU Administrasi Negara"
+        ],
+        "a": 2,
+        "id": 63
+    },
+    {
+        "q": "Salah satu asas penting dalam cyberlaw adalah…",
+        "c": [
+            "Asas kekeluargaan",
+            "Asas teritorial semata",
+            "Asas kepastian hukum",
+            "Asas kebiasaan",
+            "Asas kebebasan mutlak"
+        ],
+        "a": 2,
+        "id": 64
+    },
+    {
+        "q": "UU ITE berlaku bagi…",
+        "c": [
+            "Warga negara Indonesia saja",
+            "Pengguna internet di kota besar",
+            "Setiap orang yang perbuatannya berdampak hukum di Indonesia",
+            "Aparat penegak hukum",
+            "Perusahaan teknologi"
+        ],
+        "a": 1,
+        "id": 65
+    },
+    {
+        "q": "Perbedaan utama cyberlaw dan hukum konvensional terletak pada…",
+        "c": [
+            "Jenis sanksi",
+            "Media dan ruang lingkup pengaturannya",
+            "Tujuan hukum",
+            "Fungsi hukum",
+            "Asas hukum"
+        ],
+        "a": 2,
+        "id": 66
+    },
+    {
+        "q": "Bukti elektronik dalam UU ITE memiliki kedudukan…",
+        "c": [
+            "Tidak sah",
+            "Lebih lemah dari bukti tertulis",
+            "Sah dan diakui secara hukum",
+            "Hanya pelengkap",
+            "Tidak dapat digunakan di pengadilan"
+        ],
+        "a": 1,
+        "id": 67
+    },
+    {
+        "q": "Salah satu tantangan penerapan cyberlaw adalah…",
+        "c": [
+            "Kurangnya teknologi",
+            "Kejahatan bersifat lintas negara",
+            "Terbatasnya perangkat keras",
+            "Rendahnya minat masyarakat",
+            "Sistem hukum terlalu sederhana"
+        ],
+        "a": 2,
+        "id": 68
+    },
+    {
+        "q": "Profesional TI wajib memahami UU ITE karena…",
+        "c": [
+            "Untuk menghindari persaingan",
+            "Agar dapat membatasi pengguna",
+            "Berkaitan dengan tanggung jawab hukum dalam pekerjaannya",
+            "Untuk menaikkan jabatan",
+            "Sebagai syarat administratif"
+        ],
+        "a": 2,
+        "id": 69
+    },
+    {
+        "q": "Kepatuhan terhadap cyberlaw dan UU ITE akan berdampak pada…",
+        "c": [
+            "Terhambatnya inovasi digital",
+            "Meningkatnya kejahatan siber",
+            "Terciptanya ekosistem digital yang aman dan tertib",
+            "Berkurangnya penggunaan teknologi",
+            "Hilangnya kebebasan berekspresi"
+        ],
+        "a": 0,
+        "id": 70
+    }
+]
